@@ -46,22 +46,36 @@
 </div>
 
 ---
+## 📌 Top Projects  
 
-## 📊 GitHub Stats
+### 🚀 CampusPay - A Seamless Student Payment System  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Balaji091&repo=studentsPaymentHub-Frontend&theme=tokyonight)](https://github.com/Balaji091/studentsPaymentHub-Frontend)  
+🔹 **Frontend:** Built with React & Bootstrap for an intuitive UI.  
+🔹 **Backend:** Node.js, Express, and MongoDB for secure transactions.  
+🔹 **Features:** Digital payments, student fee tracking, and a user-friendly dashboard.  
+🔹 [Backend Repo](https://github.com/Balaji091/StudentsPaymentHub)  
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Balaji091&show_icons=true&theme=dark" alt="GitHub Stats" width="400px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Balaji091&theme=dark" alt="GitHub Streak" width="400px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Balaji091&show_icons=true&theme=dark&layout=compact" alt="Top Languages" width="400px"/>
-</div>
+---  
 
----
+### 💬 ChatApp - A Real-time Messaging Application  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Balaji091&repo=chatapp&theme=tokyonight)](https://github.com/Balaji091/chatapp)  
+🔹 **Tech Stack:** React, Node.js, Express, Socket.io, and MongoDB.  
+🔹 **Features:** Instant messaging, real-time updates, and user authentication.  
 
-## 🔥 Contribution & Activity Graph
+---  
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Balaji091&theme=react-dark&hide_border=true" alt="GitHub Activity Graph"/>
-</p>
+### ✍️ Bloggy - A Dynamic Blogging Platform  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Balaji091&repo=Bloggy&theme=tokyonight)](https://github.com/Balaji091/Bloggy)  
+🔹 **Tech Stack:** React, Node.js, Express, MongoDB.  
+🔹 **Features:** Create, edit, delete, and comment on blog posts.  
+
+---  
+
+### 📅 EventPlanner - A Smart Event Management System  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Balaji091&repo=EventPlanner&theme=tokyonight)](https://github.com/Balaji091/EventPlanner)  
+🔹 **Tech Stack:** React, Node.js, Express, MongoDB.  
+🔹 **Features:** Event scheduling and notifications.  
+
 
 ---
 
