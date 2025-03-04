@@ -11,7 +11,7 @@
 
 <h3 align="left">🚀 Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/balaji-chokkara-21b3a2280" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/balaji-chokkara-21b3a2280/" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"/></a>
 <a href="https://github.com/Balaji091" target="_blank"><img align="center" src="https://img.shields.io/badge/-GitHub-black?style=flat&logo=github" alt="GitHub"/></a>
 <a href="mailto:chokkarabalaji@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail" alt="Email"/></a>
 </p>
